@@ -1,0 +1,6 @@
+{
+  "fixture_id": "teacher_asks_if_fit_current_lesson_0964C",
+  "trigger": "recommend_fit",
+  "teacher_input": "????????????",
+  "expected_response_type": "fit_recommendation"
+}

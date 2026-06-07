@@ -1,0 +1,6 @@
+{
+  "fixture_id": "teacher_selects_draft_preference_0964C",
+  "trigger": "select_draft_preference",
+  "teacher_input": "??????",
+  "expected_response_type": "draft_preference_candidate_notice"
+}

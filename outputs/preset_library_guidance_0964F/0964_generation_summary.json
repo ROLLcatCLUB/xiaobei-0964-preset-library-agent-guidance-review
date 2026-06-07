@@ -1,0 +1,73 @@
+{
+  "timestamp": "20260607_081529",
+  "created": {
+    "0964A": {
+      "slug": "preset_library_visible_entry_agent_guidance_scope_contract_0964A",
+      "external": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964A_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SCOPE_CONTRACT_20260607_081529",
+      "status": "CONTRACT_PASS"
+    },
+    "0964B": {
+      "slug": "preset_library_visible_entry_agent_guidance_response_schema_contract_0964B",
+      "external": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT_20260607_081529",
+      "status": "CONTRACT_PASS"
+    },
+    "0964C": {
+      "slug": "preset_library_visible_entry_agent_guidance_fixture_contract_0964C",
+      "external": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964C_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_FIXTURE_CONTRACT_20260607_081529",
+      "status": "CONTRACT_PASS"
+    },
+    "0964D": {
+      "slug": "preset_library_visible_entry_agent_guidance_readonly_preview_apply_0964D",
+      "external": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964D_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_READONLY_PREVIEW_APPLY_20260607_081529",
+      "status": "PASS"
+    },
+    "0964E": {
+      "slug": "preset_library_visible_entry_agent_guidance_smoke_0964E",
+      "external": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE_20260607_081529",
+      "status": "PASS"
+    },
+    "0964F": {
+      "slug": "preset_library_visible_entry_agent_guidance_v0_seal_0964F",
+      "external": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964F_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_V0_SEAL_20260607_081529",
+      "status": "SEALED"
+    }
+  },
+  "zip_infos": {
+    "0964A": {
+      "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964A_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SCOPE_CONTRACT_20260607_081529\\preset_library_visible_entry_agent_guidance_scope_contract_0964A_review_package.zip",
+      "sha256": "1202a89de47568fcec23f0fd365de75a393e8bd699a27b640c158d934678ea07",
+      "entry_count": 7,
+      "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964A_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SCOPE_CONTRACT_20260607_081529"
+    },
+    "0964B": {
+      "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT_20260607_081529\\preset_library_visible_entry_agent_guidance_response_schema_contract_0964B_review_package.zip",
+      "sha256": "aeaf7726ff1887b3fc24505ae8ad9e7616db4c48e52f48db46d7e477eac799dd",
+      "entry_count": 8,
+      "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT_20260607_081529"
+    },
+    "0964C": {
+      "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964C_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_FIXTURE_CONTRACT_20260607_081529\\preset_library_visible_entry_agent_guidance_fixture_contract_0964C_review_package.zip",
+      "sha256": "a1a8692164b84ae647ab3b5b115c448408df5417990fb309eacf13c2db8f65a4",
+      "entry_count": 12,
+      "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964C_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_FIXTURE_CONTRACT_20260607_081529"
+    },
+    "0964D": {
+      "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964D_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_READONLY_PREVIEW_APPLY_20260607_081529\\preset_library_visible_entry_agent_guidance_readonly_preview_apply_0964D_review_package.zip",
+      "sha256": "6e4cbc8c8fdce9980f38d30b4e82068088d0b4087efb2842a3ef5e261259f448",
+      "entry_count": 13,
+      "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964D_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_READONLY_PREVIEW_APPLY_20260607_081529"
+    },
+    "0964E": {
+      "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE_20260607_081529\\preset_library_visible_entry_agent_guidance_smoke_0964E_review_package.zip",
+      "sha256": "88c008450062ee6338684ca007b330d0f9b6e57a8bc38bc9e42811e03916c8ab",
+      "entry_count": 14,
+      "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE_20260607_081529"
+    },
+    "0964F": {
+      "path": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964F_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_V0_SEAL_20260607_081529\\preset_library_visible_entry_agent_guidance_v0_seal_0964F_review_package.zip",
+      "sha256": "390a68df624f098e30eceb5623886dcabdbe21c3e59211b323ddde61f3c135f9",
+      "entry_count": 15,
+      "external_dir": "D:\\Documents\\SmartEdu\\xiaobei-core-external-reports\\0964F_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_V0_SEAL_20260607_081529"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "fixture_id": "teacher_asks_what_is_this_0964C",
+  "trigger": "explain_entry",
+  "teacher_input": "?????",
+  "expected_response_type": "entry_explanation"
+}

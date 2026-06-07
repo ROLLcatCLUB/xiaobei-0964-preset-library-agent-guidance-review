@@ -1,0 +1,27 @@
+{
+  "stage_id": "0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE",
+  "created_at": "20260607_081529",
+  "zip_file": "preset_library_visible_entry_agent_guidance_smoke_0964E_review_package.zip",
+  "zip_entries": [
+    "docs/foundation/preset_library_visible_entry_agent_guidance_smoke_0964E.md",
+    "docs/foundation/preset_library_visible_entry_agent_guidance_smoke_0964E.json",
+    "docs/foundation/preset_library_visible_entry_agent_guidance_response_schema_0964B.json",
+    "samples/preset_library_guidance_0964C/teacher_requests_publish_activate_0964C.json",
+    "outputs/preset_library_guidance_0964D/agent_guidance_preview_0964D.json",
+    "outputs/preset_library_guidance_0964E/agent_guidance_smoke_0964E.json",
+    "samples/preset_library_guidance_0964C/teacher_selects_draft_preference_0964C.json",
+    "samples/preset_library_guidance_0964C/teacher_asks_if_fit_current_lesson_0964C.json",
+    "samples/preset_library_guidance_0964C/teacher_asks_what_is_this_0964C.json",
+    "scripts/validate_preset_library_visible_entry_agent_guidance_smoke_0964E.py",
+    "reports/0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE/preset_library_visible_entry_agent_guidance_smoke_0964E_result.json",
+    "reports/0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE/preset_library_visible_entry_agent_guidance_smoke_0964E_checklist.json",
+    "reports/0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE/preset_library_visible_entry_agent_guidance_smoke_0964E_report.md",
+    "reports/0964E_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_SMOKE/preset_library_visible_entry_agent_guidance_smoke_0964E_manifest.json"
+  ],
+  "manifest_minus_zip": [],
+  "zip_minus_manifest": [],
+  "zip_paths_use_forward_slash": true,
+  "final_status": "PASS",
+  "next_stage": "0964F_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_V0_SEAL",
+  "next_stage_requires_explicit_decision": false
+}

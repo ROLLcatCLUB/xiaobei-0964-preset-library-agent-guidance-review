@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "preset_library_visible_entry_agent_guidance_response_schema_0964B",
+  "title": "Preset Library Visible Entry Agent Guidance Response Schema 0964B",
+  "type": "object",
+  "required": [
+    "guidance_id",
+    "trigger",
+    "response_type",
+    "entry_explanation",
+    "recommend_when",
+    "ordinary_teacher_allowed_actions",
+    "forbidden_actions",
+    "next_safe_step",
+    "scope_boundary",
+    "field_level_full_explanation_created",
+    "provider_called",
+    "memory_store_written",
+    "registry_store_written"
+  ],
+  "properties": {
+    "guidance_id": {
+      "type": "string"
+    },
+    "trigger": {
+      "enum": [
+        "explain_entry",
+        "recommend_fit",
+        "select_draft_preference",
+        "request_publish_or_activate"
+      ]
+    },
+    "response_type": {
+      "enum": [
+        "entry_explanation",
+        "fit_recommendation",
+        "draft_preference_candidate_notice",
+        "safe_refusal"
+      ]
+    },
+    "entry_explanation": {
+      "type": "string"
+    },
+    "recommend_when": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ordinary_teacher_allowed_actions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "forbidden_actions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "next_safe_step": {
+      "type": "string"
+    },
+    "scope_boundary": {
+      "const": "preset_library_entry_only_not_all_fields"
+    },
+    "field_level_full_explanation_created": {
+      "const": false
+    },
+    "provider_called": {
+      "const": false
+    },
+    "memory_store_written": {
+      "const": false
+    },
+    "registry_store_written": {
+      "const": false
+    }
+  }
+}

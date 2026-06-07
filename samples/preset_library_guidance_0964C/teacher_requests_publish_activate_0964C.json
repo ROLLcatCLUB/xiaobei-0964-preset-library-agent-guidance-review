@@ -1,0 +1,6 @@
+{
+  "fixture_id": "teacher_requests_publish_activate_0964C",
+  "trigger": "request_publish_or_activate",
+  "teacher_input": "???????",
+  "expected_response_type": "safe_refusal"
+}

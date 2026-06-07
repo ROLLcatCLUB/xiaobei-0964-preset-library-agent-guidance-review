@@ -1,0 +1,21 @@
+{
+  "stage_id": "0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT",
+  "created_at": "20260607_081529",
+  "zip_file": "preset_library_visible_entry_agent_guidance_response_schema_contract_0964B_review_package.zip",
+  "zip_entries": [
+    "docs/foundation/preset_library_visible_entry_agent_guidance_response_schema_contract_0964B.md",
+    "docs/foundation/preset_library_visible_entry_agent_guidance_response_schema_contract_0964B.json",
+    "docs/foundation/preset_library_visible_entry_agent_guidance_response_schema_0964B.json",
+    "scripts/validate_preset_library_visible_entry_agent_guidance_response_schema_contract_0964B.py",
+    "reports/0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT/preset_library_visible_entry_agent_guidance_response_schema_contract_0964B_result.json",
+    "reports/0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT/preset_library_visible_entry_agent_guidance_response_schema_contract_0964B_checklist.json",
+    "reports/0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT/preset_library_visible_entry_agent_guidance_response_schema_contract_0964B_report.md",
+    "reports/0964B_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_RESPONSE_SCHEMA_CONTRACT/preset_library_visible_entry_agent_guidance_response_schema_contract_0964B_manifest.json"
+  ],
+  "manifest_minus_zip": [],
+  "zip_minus_manifest": [],
+  "zip_paths_use_forward_slash": true,
+  "final_status": "CONTRACT_PASS",
+  "next_stage": "0964C_PRESET_LIBRARY_VISIBLE_ENTRY_AGENT_GUIDANCE_FIXTURE_CONTRACT",
+  "next_stage_requires_explicit_decision": false
+}
